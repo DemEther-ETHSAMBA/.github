@@ -1,4 +1,4 @@
-<img align="right" width="1000" height="1000" top="500" src="./public/Demether.png">
+<img align="right" width="1000" height="500" top="500" src="./public/Demether.png">
 
 ## Demether comes to revolutionize the agricultural market with sustainability, advanced technology, and circular economy through tokenization. • 
 
